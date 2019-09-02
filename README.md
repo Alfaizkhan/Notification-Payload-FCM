@@ -10,13 +10,11 @@
 #
 ## Json data to be send in notification
 ####      {
-####         "to":
-####          "eUeEYkFaX3U:APA91bEvZpAWh3O47Ht-HnzdSIfwahvH-qGxucBrY-              xxKCQq9KdjmacQhFPnqItDTsDSpFrQ5V_gNRXdxbN7H3nUhyiXKn6upftmJr10Hl8JEyEbGiF6Dk1G1TzAZ_KasT--1T18MYnw",
+####         "to":"eUeEYkFaX3U:APA91bEvZpAWh3O47Ht-HnzdSIfwahvH-qGxucBrY-              xxKCQq9KdjmacQhFPnqItDTsDSpFrQ5V_gNRXdxbN7H3nUhyiXKn6upftmJr10Hl8JEyEbGiF6Dk1G1TzAZ_KasT--1T18MYnw",
 ####         "data": {
 ####        "title": "By Google",
 ####        "message": "Let's go to GDG on this 22th September",
-####         "image-url":
-####        "https://docs.centroida.co/wp-content/uploads/2017/05/notification.png"
+####         "image-url":"https://docs.centroida.co/wp-content/uploads/2017/05/notification.png"
 ####      }
 ####  }
 
