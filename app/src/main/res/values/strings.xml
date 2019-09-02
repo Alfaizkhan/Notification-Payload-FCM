@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayLoadNotification</string>
+    <string name="notifications_admin_channel_name">MyChannel</string>
+    <string name="notifications_admin_channel_description">Channel1</string>
+</resources>
