@@ -1,7 +1,7 @@
 # Notification-Payload-FCM
 
 ## Demo example of Push notificatio payload using FCM console.
-### (add your google-services.json file and credentials)
+#### Note : add your google-services.json file and credentials
 
 #### PIC 1: Main Screen
 #### PIC 2 : Notification Payload
