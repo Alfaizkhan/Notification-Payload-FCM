@@ -10,3 +10,5 @@
 #
 <img src="https://github.com/Alfaizkhan/Notification-Payload-FCM/blob/master/images/payload.png" width="360" height="640"> | <img src="https://github.com/Alfaizkhan/Notification-Payload-FCM/blob/master/images/notification.png" width="360" height="640">
 
+<img src="https://github.com/Alfaizkhan/Notification-Payload-FCM/blob/master/images/postman1.png"> | <img src="https://github.com/Alfaizkhan/Notification-Payload-FCM/blob/master/images/postman2.PNG">
+
